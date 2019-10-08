@@ -7,3 +7,7 @@ https://www.merriam-webster.com/dictionary/hemodynamics
 <h3>eccentric </h3>
 
 <h3>heist </h3>
+
+<h3>decaf </h3>
+
+<h3>cider </h3>
