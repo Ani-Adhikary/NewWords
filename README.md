@@ -15,3 +15,7 @@ https://www.merriam-webster.com/dictionary/hemodynamics
 <h3>whirlwind </h3>
 
 <h3>hinder </h3>
+
+<h3>drudgery </h3>
+
+<h3>subtle </h3>
