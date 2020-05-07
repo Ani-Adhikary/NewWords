@@ -23,3 +23,5 @@ https://www.merriam-webster.com/dictionary/hemodynamics
 <h3>repatriation</h3>
 
     the return of someone to their own country.
+
+<h3>sporadic</h3>
