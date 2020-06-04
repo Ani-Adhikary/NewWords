@@ -25,3 +25,7 @@ https://www.merriam-webster.com/dictionary/hemodynamics
     the return of someone to their own country.
 
 <h3>sporadic</h3>
+    occurring at irregular intervals or only in a few places; scattered or isolated.
+    
+<h3>pariah</h3>
+    an outcast
