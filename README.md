@@ -29,3 +29,5 @@ https://www.merriam-webster.com/dictionary/hemodynamics
     
 <h3>pariah</h3>
     an outcast
+    
+<h3>animosity </h3>
