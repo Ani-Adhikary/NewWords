@@ -42,3 +42,4 @@ https://www.merriam-webster.com/dictionary/hemodynamics
 <h3> mucormycosis </h3>
 
 
+<h3> exacerbate </h3>
