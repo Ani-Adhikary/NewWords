@@ -43,3 +43,6 @@ https://www.merriam-webster.com/dictionary/hemodynamics
 
 
 <h3> exacerbate </h3>
+
+
+<h3> ubiquitous </h3>
