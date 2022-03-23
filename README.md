@@ -48,3 +48,5 @@ https://www.merriam-webster.com/dictionary/hemodynamics
 <h3> ubiquitous </h3>
 
 <h3> Anglophile </h3>
+
+<h3> embargo </h3>
