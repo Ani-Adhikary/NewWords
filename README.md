@@ -1,5 +1,8 @@
 # NewWords
 
+<h3> Blizzard </h3>
+'Blizzard of the century' leaves Buffalo digging out of several feet of snow
+
 <h3> hemodynamics </h3>
 
 https://www.merriam-webster.com/dictionary/hemodynamics
