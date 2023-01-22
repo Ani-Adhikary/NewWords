@@ -7,6 +7,10 @@
 
 https://www.merriam-webster.com/dictionary/hemodynamics
 
+<h3> meteoritic </h3>
+
+<h3> meteoric rise </h3>
+
 <h3> eccentric </h3>
 
 <h3> heist </h3>
